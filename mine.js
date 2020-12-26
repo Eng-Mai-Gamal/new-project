@@ -1,6 +1,6 @@
 // ????????????????????????????????????/jkbfjbejfneonfoienfoineoifeoifeiofieofoie
 
-var inpname=document.getElementById("signupName");
+// var inpname=document.getElementById("signupName");
 var inpEmail=document.getElementById("signupEmail");
 var inppwd=document.getElementById("signupPassword");
 var addbtn=document.getElementById("addbtn");
